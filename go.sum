@@ -1,0 +1,6 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/hiysz/localcache v0.0.0-20220104055107-ed707b44f629 h1:hN2zLLE8Judpa5E9fzjZDGKnc9YHp96sCXB1dMe4a1E=
+github.com/hiysz/localcache v0.0.0-20220104055107-ed707b44f629/go.mod h1:Z8tEfaYL9hCEGaMgAXY1t/V7yErtiX1CELr8Z0VaurA=
